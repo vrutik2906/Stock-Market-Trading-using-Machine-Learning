@@ -1,4 +1,4 @@
-# Stock-Market-Trading-using-Machine-Learning
+# Stock Market Trading using Machine Learning
 
 ## Introduction
 
